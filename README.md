@@ -34,6 +34,9 @@ Best model achieved around **80% accuracy** with good recall for churn class.
   - Multinomial Naive Bayes
 - Evaluated using accuracy score and confusion matrix
 
+###  Result:
+Built an effective model to classify movies into genres like **Action**, **Comedy**, **Horror**, etc.
+
 ---
 
 ##  3. Sentiment Analysis
@@ -51,5 +54,16 @@ Best model achieved around **80% accuracy** with good recall for churn class.
 ###  Result:
 Achieved **high accuracy** and good generalization on test data.
 
+---
+
+##  Tools & Libraries Used
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+- NLTK (for NLP)
+- Jupyter Notebook
+
+---
 
 
